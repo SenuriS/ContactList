@@ -1,5 +1,8 @@
 # ContactList-Backend
-This application is build on Java 8 with Maven.
-Build the application mvn clean install -DskipTests
+1. This application is build on Java 8 with Maven.
 
-Exectable Jar file can be used directly
+2. Build the application mvn clean install -DskipTests
+
+3. Exectable Jar file can be used directly
+
+4. command - java -jar contact-list-0.0.1-SNAPSHOT.jar
